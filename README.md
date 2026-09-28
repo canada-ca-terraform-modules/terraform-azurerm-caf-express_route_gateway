@@ -16,7 +16,7 @@ covering scale units and non-Virtual-WAN traffic acceptance. Requires azurerm
 
 | Name | Version |
 |------|---------|
-| <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 5.7.0 |
+| <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | >= 4.9.0, < 6.0.0 |
 
 ## Modules
 
